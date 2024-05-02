@@ -1,17 +1,3 @@
----
-title: WebGPU Setup
-author: Parminder Singh
-version: v0.1
-date: 05/05/2024
-layout: post
-header: WebGPU Setup
-output:
-  pdf_document:
-    toc: true
-    toc_depth: 2
-    highlight: tango
----
-
 # Configuring WebGPU
 
 ### Things to be covered in this tutorial:
